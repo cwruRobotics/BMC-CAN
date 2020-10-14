@@ -1,0 +1,211 @@
+Removed Pin From Net: NetName=VCC_PROTECTED Pin=C9-1
+Removed Pin From Net: NetName=NetC8_2 Pin=L1-1
+Removed Pin From Net: NetName=NetD4_2 Pin=Q1-1
+Removed Pin From Net: NetName=VCC Pin=Q1-2
+Removed Pin From Net: NetName=VCC_PROTECTED Pin=Q1-3
+Removed Pin From Net: NetName=VCC_PROTECTED Pin=U3-7
+Removed Member From Class: ClassName=Power Member=Q1
+Change Component Footprint: Designator=C1 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C2 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C7 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R1 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R2 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R3 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R5 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R6 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R7 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R8 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R10 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R12 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C3 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C4 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C5 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C6 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C8 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C9 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R4 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R9 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R11 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=P1 Old Footprint=hddr_2x1_0 New Footprint=hddr_2x1_0
+Change Component Footprint: Designator=L1 Old Footprint=WURTH_744143100 New Footprint=WURTH WE-LQS 6045
+Change Component Footprint: Designator=L2 Old Footprint=WURTH_744143100 New Footprint=WURTH WE-LQS 6045
+Change Component Comment : Designator=L1 Old Comment=ind_1 New Comment=22µH
+Change Component Comment : Designator=L2 Old Comment=ind_1 New Comment=22µH
+Change component parameters: Designator = "L1" ("L1"); Footprint = "WURTH_744143100"; UniqueID = "\CYEUKGJQ" ("\CYEUKGJQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://katalog.we-online.de/pbs/datasheet/74404064220.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/w-rth-elektronik/74404064220/732-5554-1-ND/4865447"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Saturation"; Value = "2.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Amps)"; Value = "1.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "89mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Self Resonant"; Value = "15MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.177" (4.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "22µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance Frequency - Test"; Value = "100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:30:28 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material - Core"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "74404064220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "3707"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.69"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "WE-LQS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.236" L x 0.236" W (6.00mm x 6.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "6045"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5554-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Wirewound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22µH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "WURTH_744143100"; UniqueID = "\PPQGVFDC" ("\PPQGVFDC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://katalog.we-online.de/pbs/datasheet/74404064220.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/w-rth-elektronik/74404064220/732-5554-1-ND/4865447"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Saturation"; Value = "2.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Amps)"; Value = "1.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "89mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Self Resonant"; Value = "15MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.177" (4.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "22µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance Frequency - Test"; Value = "100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:30:28 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material - Core"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "74404064220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "3707"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.69"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "WE-LQS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.236" L x 0.236" W (6.00mm x 6.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "6045"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5554-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Wirewound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22µH"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.22µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.knowlescapacitors.com/getattachment/6c8d48ef-fc2b-4752-ae2c-ce6c208de0c4/High-Capacitance-Chip.aspx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/knowles-novacap/0603BB224K500YT/1763-1192-1-ND/7304302"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:03:36 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Knowles Novacap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603BB224K500YT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2162"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.060" L x 0.030" W (1.52mm x 0.76mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1763-1192-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.89mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.22µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.knowlescapacitors.com/getattachment/6c8d48ef-fc2b-4752-ae2c-ce6c208de0c4/High-Capacitance-Chip.aspx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/knowles-novacap/0603BB224K500YT/1763-1192-1-ND/7304302"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:03:36 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Knowles Novacap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603BB224K500YT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2162"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.060" L x 0.030" W (1.52mm x 0.76mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1763-1192-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.89mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(DIODES SOT-23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.diodes.com/assets/Datasheets/DMP3098LQ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/diodes-incorporated/DMP3098LQ-7/DMP3098LQ-7DICT-ND/8545877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "3.8A (Ta)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drive Voltage (Max Rds On,  Min Rds On)"; Value = "4.5V, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "P-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg) (Max) @ Vgs"; Value = "8nC @ 4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "1008pF @ 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:25:04 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DMP3098LQ-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Max)"; Value = "1.08W (Ta)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "70mOhm @ 3.8A, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Automotive, AEC-Q101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DMP3098LQ-7DICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "MOSFET (Metal Oxide)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "2.1V @ 250µA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC_PROTECTED Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetD4_2 Pin=IC1-1
+Added Pin To Net: NetName=VCC_PROTECTED Pin=IC1-2
+Added Pin To Net: NetName=VCC Pin=IC1-3
+Added Pin To Net: NetName=VCC_PROTECTED Pin=L1-1
+Added Pin To Net: NetName=NetC8_2 Pin=L2-1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C12-2
+Added Pin To Net: NetName=NetC9_1 Pin=L1-2
+Added Pin To Net: NetName=NetC9_1 Pin=U3-7
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=Power Member=Component C11 0.22µF
+Added Member To Class: ClassName=Power Member=Component C12 0.22µF
+Added Member To Class: ClassName=Power Member=Component IC1 DMP3098LQ-7
+Added Room: Name=IO
+Added Room: Name=MCU
+Added Room: Name=Power
