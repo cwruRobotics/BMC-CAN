@@ -1,0 +1,203 @@
+Removed Pin From Net: NetName=VCC Pin=IC3-5
+Removed Pin From Net: NetName=VCC Pin=IC3-6
+Removed Pin From Net: NetName=VCC Pin=IC3-7
+Removed Pin From Net: NetName=VCC Pin=IC3-8
+Removed Pin From Net: NetName=GND Pin=IC4-4
+Removed Pin From Net: NetName=NetIC3_4 Pin=IC4-7
+Removed Pin From Net: NetName=VCC Pin=IC5-1
+Removed Pin From Net: NetName=GND Pin=IC5-4
+Removed Pin From Net: NetName=NetIC2_4 Pin=IC5-7
+Removed Pin From Net: NetName=NetIC3_1 Pin=IC7-5
+Removed Pin From Net: NetName=NetIC3_1 Pin=IC7-6
+Removed Pin From Net: NetName=NetIC3_1 Pin=IC7-7
+Removed Pin From Net: NetName=NetIC3_1 Pin=IC7-8
+Removed Pin From Net: NetName=GND Pin=IC?-2
+Removed Pin From Net: NetName=+3.3 Pin=IC?-5
+Removed Member From Class: ClassName=Motor_Control Member=IC6
+Removed Member From Class: ClassName=Motor_Control Member=IC7
+Removed Member From Class: ClassName=Motor_Control Member=IC?
+Removed Member From Class: ClassName=Motor_Control Member=R?
+Change Component Footprint: Designator=IC4 Old Footprint=INFINEON PG-DSO-8 New Footprint=INFINEON PG-TDSON-8 6.15X5.32MM
+Change Component Footprint: Designator=IC5 Old Footprint=INFINEON PG-DSO-8 New Footprint=INFINEON PG-TDSON-8 6.15X5.32MM
+Change Component Comment : Designator=IC4 Old Comment=2EDL05N06PFXUMA1 New Comment=BSC027N04LSGATMA1
+Change Component Comment : Designator=IC5 Old Comment=2EDL05N06PFXUMA1 New Comment=BSC027N04LSGATMA1
+Change Component Comment : Designator=R13 Old Comment=10 mOhms New Comment=50 mOhms
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES 0603_1608"; UniqueID = "\CJGNOTVT" ("\CJGNOTVT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.koaspeer.com/catimages/Products/UR73/UR73.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/koa-speer-electronics-inc/UR73D1JTTD50L0F/2019-UR73D1JTTD50L0FCT-ND/9847720"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Current Sense"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.018" (0.45mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:09:33 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KOA Speer Electronics, Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UR73D1JTTD50L0F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "25317"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "50 mOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "UR73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-UR73D1JTTD50L0FCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "50 mOhms"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC4" ("IC4"); Footprint = "INFINEON PG-DSO-8"; UniqueID = "\KRGTGRWX" ("\KRGTGRWX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/dgdl/BSC027N04LSG_rev1.04.pdf?folderId=db3a3043156fd5730115c7d50620107c&fileId=db3a30431689f4420116c4323646080c"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/infineon-technologies/BSC027N04LSGATMA1/BSC027N04LSGATMA1CT-ND/2231028"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "24A (Ta), 100A (Tc)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drive Voltage (Max Rds On,  Min Rds On)"; Value = "4.5V, 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FET Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate Charge (Qg) (Max) @ Vgs"; Value = "85nC @ 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "6800pF @ 20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:27:16 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "8-PowerTDFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BSC027N04LSGATMA1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation (Max)"; Value = "2.5W (Ta), 83W (Tc)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.59"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "2.7mOhm @ 50A, 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "OptiMOS™"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "PG-TDSON-8-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BSC027N04LSGATMA1CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "MOSFET (Metal Oxide)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "2V @ 49µA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC5" ("IC5"); Footprint = "INFINEON PG-DSO-8"; UniqueID = "\IQCFXPBL" ("\IQCFXPBL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/dgdl/BSC027N04LSG_rev1.04.pdf?folderId=db3a3043156fd5730115c7d50620107c&fileId=db3a30431689f4420116c4323646080c"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/infineon-technologies/BSC027N04LSGATMA1/BSC027N04LSGATMA1CT-ND/2231028"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "24A (Ta), 100A (Tc)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drive Voltage (Max Rds On,  Min Rds On)"; Value = "4.5V, 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FET Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate Charge (Qg) (Max) @ Vgs"; Value = "85nC @ 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "6800pF @ 20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:27:16 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "8-PowerTDFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BSC027N04LSGATMA1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation (Max)"; Value = "2.5W (Ta), 83W (Tc)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.59"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "2.7mOhm @ 50A, 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "OptiMOS™"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "PG-TDSON-8-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BSC027N04LSGATMA1CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "MOSFET (Metal Oxide)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "2V @ 49µA"; VariantName = "[No Variations]"
+Added Component: Designator=P4(BARR_0.5IN_2x1_0)
+Add component (AddParameter): Name = "Cost"; Value = "1.68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "389690002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Barrier Block"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.5"; VariantName = "[No Variations]"
+Added Component: Designator=P5(BARR_0.5IN_2x1_0)
+Add component (AddParameter): Name = "Cost"; Value = "1.68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "389690002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Barrier Block"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.5"; VariantName = "[No Variations]"
+Added Component: Designator=U4(VQFN-24-EP)
+Add component (AddParameter): Name = "Cost"; Value = "2.37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "DRV8701PRGET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PWREG-00045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reg Type"; Value = "Bridge Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Range In"; Value = "5.9 - 45V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=IC4-2
+Added Pin To Net: NetName=VCC Pin=IC4-3
+Added Pin To Net: NetName=NetIC3_1 Pin=IC5-5
+Added Pin To Net: NetName=NetIC3_1 Pin=IC5-6
+Added Pin To Net: NetName=NetIC3_1 Pin=IC5-7
+Added Pin To Net: NetName=NetIC3_1 Pin=IC5-8
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=NetIC3_1 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-16
+Added Pin To Net: NetName=NetIC2_4 Pin=U4-17
+Added Pin To Net: NetName=NetIC3_4 Pin=U4-19
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Pin To Net: NetName=NetIC3_1 Pin=U4-21
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Pin To Net: NetName=MOTOR+ Pin=IC2-1
+Added Pin To Net: NetName=MOTOR+ Pin=IC2-2
+Added Pin To Net: NetName=MOTOR+ Pin=IC2-3
+Added Pin To Net: NetName=MOTOR+ Pin=IC3-5
+Added Pin To Net: NetName=MOTOR+ Pin=IC3-6
+Added Pin To Net: NetName=MOTOR+ Pin=IC3-7
+Added Pin To Net: NetName=MOTOR+ Pin=IC3-8
+Added Pin To Net: NetName=MOTOR+ Pin=P4-1
+Added Pin To Net: NetName=MOTOR+ Pin=U4-18
+Added Net: Name=MOTOR+
+Added Pin To Net: NetName=MOTOR- Pin=IC4-5
+Added Pin To Net: NetName=MOTOR- Pin=IC4-6
+Added Pin To Net: NetName=MOTOR- Pin=IC4-7
+Added Pin To Net: NetName=MOTOR- Pin=IC4-8
+Added Pin To Net: NetName=MOTOR- Pin=IC5-1
+Added Pin To Net: NetName=MOTOR- Pin=IC5-2
+Added Pin To Net: NetName=MOTOR- Pin=IC5-3
+Added Pin To Net: NetName=MOTOR- Pin=P4-2
+Added Pin To Net: NetName=MOTOR- Pin=U4-23
+Added Net: Name=MOTOR-
+Added Pin To Net: NetName=NetIC4_4 Pin=IC4-4
+Added Pin To Net: NetName=NetIC4_4 Pin=U4-24
+Added Net: Name=NetIC4_4
+Added Pin To Net: NetName=NetIC5_4 Pin=IC5-4
+Added Pin To Net: NetName=NetIC5_4 Pin=U4-22
+Added Net: Name=NetIC5_4
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_18 Pin=U1-18
+Added Net: Name=NetU1_18
+Added Pin To Net: NetName=NetU1_19 Pin=U1-19
+Added Net: Name=NetU1_19
+Added Pin To Net: NetName=NetU1_30 Pin=U1-30
+Added Net: Name=NetU1_30
+Added Pin To Net: NetName=NetU1_31 Pin=U1-31
+Added Net: Name=NetU1_31
+Added Pin To Net: NetName=NetU4_14 Pin=U4-14
+Added Net: Name=NetU4_14
+Added Pin To Net: NetName=NetU4_15 Pin=U4-15
+Added Net: Name=NetU4_15
+Added Member To Class: ClassName=Motor_Control Member=Component P4 conn-2x1_0
+Added Member To Class: ClassName=Power Member=Component P5 conn-2x1_0
+Added Member To Class: ClassName=Motor_Control Member=Component U4 DRV8701PRGET

@@ -1,0 +1,181 @@
+Added Component: Designator=IC?(INFINEON PG-TDSON-8 6.15X5.32MM)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/dgdl/BSC027N04LSG_rev1.04.pdf?folderId=db3a3043156fd5730115c7d50620107c&fileId=db3a30431689f4420116c4323646080c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/infineon-technologies/BSC027N04LSGATMA1/BSC027N04LSGATMA1CT-ND/2231028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "24A (Ta), 100A (Tc)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drive Voltage (Max Rds On,  Min Rds On)"; Value = "4.5V, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg) (Max) @ Vgs"; Value = "85nC @ 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "6800pF @ 20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:27:16 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-PowerTDFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSC027N04LSGATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Max)"; Value = "2.5W (Ta), 83W (Tc)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.59"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "2.7mOhm @ 50A, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "OptiMOS™"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "PG-TDSON-8-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSC027N04LSGATMA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "MOSFET (Metal Oxide)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "2V @ 49µA"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(INFINEON PG-TDSON-8 6.15X5.32MM)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/dgdl/BSC027N04LSG_rev1.04.pdf?folderId=db3a3043156fd5730115c7d50620107c&fileId=db3a30431689f4420116c4323646080c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/infineon-technologies/BSC027N04LSGATMA1/BSC027N04LSGATMA1CT-ND/2231028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "24A (Ta), 100A (Tc)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drive Voltage (Max Rds On,  Min Rds On)"; Value = "4.5V, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg) (Max) @ Vgs"; Value = "85nC @ 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "6800pF @ 20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:27:16 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-PowerTDFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSC027N04LSGATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Max)"; Value = "2.5W (Ta), 83W (Tc)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.59"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "2.7mOhm @ 50A, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "OptiMOS™"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "PG-TDSON-8-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSC027N04LSGATMA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "MOSFET (Metal Oxide)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "2V @ 49µA"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(INFINEON PG-DSO-8)
+Add component (AddParameter): Name = "Channel Type"; Value = "Independent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/dgdl/Infineon-2EDL05x06xx-DS-v02_05-EN.pdf?fileId=db3a30433e30e4bf013e3c649ffd6c8b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/infineon-technologies/2EDL05N06PFXUMA1/2EDL05N06PFXUMA1TR-ND/4571868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "8-SOIC (0.154", 3.90mm Width)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driven Configuration"; Value = "Half-Bridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Type"; Value = "IGBT, N-Channel, P-Channel MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Side Voltage - Max (Bootstrap)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "12/12/2019 8:05:39 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Voltage - VIL, VIH"; Value = "1.1V, 1.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC (0.154", 3.90mm Width)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2EDL05N06PFXUMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.63"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise / Fall Time (Typ)"; Value = "48ns, 24ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "EiceDriver™"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-DSO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2EDL05N06PFXUMA1TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "10V ~ 20V"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(INFINEON PG-DSO-8)
+Add component (AddParameter): Name = "Channel Type"; Value = "Independent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/dgdl/Infineon-2EDL05x06xx-DS-v02_05-EN.pdf?fileId=db3a30433e30e4bf013e3c649ffd6c8b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/infineon-technologies/2EDL05N06PFXUMA1/2EDL05N06PFXUMA1TR-ND/4571868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "8-SOIC (0.154", 3.90mm Width)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driven Configuration"; Value = "Half-Bridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Type"; Value = "IGBT, N-Channel, P-Channel MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Side Voltage - Max (Bootstrap)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "12/12/2019 8:05:39 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Voltage - VIL, VIH"; Value = "1.1V, 1.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC (0.154", 3.90mm Width)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2EDL05N06PFXUMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.63"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise / Fall Time (Typ)"; Value = "48ns, 24ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "EiceDriver™"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-DSO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2EDL05N06PFXUMA1TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "10V ~ 20V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0603_1608)
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/delta-electronics-cyntec/SCSF0603SD-R010J/2037-SCSF0603SD-R010JCT-ND/11562860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Metal Foil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Current Sense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:09:22 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Delta Electronics/Cyntec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SCSF0603SD-R010J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "56409"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 mOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SCSF0603SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2037-SCSF0603SD-R010JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 mOhms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-6
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-7
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-8
+Added Pin To Net: NetName=GND Pin=R?-1
+Change Net Name : Old Net Name=GND New Net Name=CURRENT_SENSE_L
+Added Pin To Net: NetName=CURRENT_SENSE_H Pin=IC?-1
+Added Pin To Net: NetName=CURRENT_SENSE_H Pin=IC?-1
+Added Pin To Net: NetName=CURRENT_SENSE_H Pin=IC?-2
+Added Pin To Net: NetName=CURRENT_SENSE_H Pin=IC?-2
+Added Pin To Net: NetName=CURRENT_SENSE_H Pin=IC?-3
+Added Pin To Net: NetName=CURRENT_SENSE_H Pin=IC?-3
+Added Pin To Net: NetName=CURRENT_SENSE_H Pin=R?-2
+Added Net: Name=CURRENT_SENSE_H
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-3
+Added Net: Name=NetIC?_2
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-5
+Added Net: Name=NetIC?_4
+Added Member To Class: ClassName=Motor_Control Member=Component IC? BSC027N04LSGATMA1
+Added Member To Class: ClassName=Motor_Control Member=Component IC? BSC027N04LSGATMA1
+Added Member To Class: ClassName=Motor_Control Member=Component IC? BSC027N04LSGATMA1
+Added Member To Class: ClassName=Motor_Control Member=Component IC? 2EDL05N06PFXUMA1
+Added Member To Class: ClassName=Motor_Control Member=Component IC? BSC027N04LSGATMA1
+Added Member To Class: ClassName=Motor_Control Member=Component R? 10 mOhms
+Added Room: Name=IO
+Added Room: Name=MCU
+Added Room: Name=Motor_Control
+Added Room: Name=Power

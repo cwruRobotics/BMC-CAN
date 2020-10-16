@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=CURRENT_SENSE_L Pin=IC?-4
+Removed Pin From Net: NetName=CURRENT_SENSE_L Pin=IC?-4
+Removed Member From Class: ClassName=Motor_Control Member=R?
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC4
+Change Component Designator: OldDesignator=IC? NewDesignator=IC5
+Change Component Designator: OldDesignator=IC? NewDesignator=IC6
+Change Component Designator: OldDesignator=IC? NewDesignator=IC7
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Added Pin To Net: NetName=NetP3_2 Pin=U1-34
+Added Pin To Net: NetName=NetP3_3 Pin=U1-37
+Change Net Name : Old Net Name=CURRENT_SENSE_H New Net Name=NetIC6_1
+Change Net Name : Old Net Name=CURRENT_SENSE_L New Net Name=GND
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC?_4 New Net Name=NetIC5_5
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR14_1
+Added Pin To Net: NetName=NetIC2_4 Pin=IC2-4
+Added Pin To Net: NetName=NetIC2_4 Pin=IC5-7
+Added Net: Name=NetIC2_4
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-3
+Added Pin To Net: NetName=NetIC3_1 Pin=IC7-5
+Added Pin To Net: NetName=NetIC3_1 Pin=IC7-6
+Added Pin To Net: NetName=NetIC3_1 Pin=IC7-7
+Added Pin To Net: NetName=NetIC3_1 Pin=IC7-8
+Added Net: Name=NetIC3_1
+Added Pin To Net: NetName=NetIC3_4 Pin=IC3-4
+Added Pin To Net: NetName=NetIC3_4 Pin=IC4-7
+Added Net: Name=NetIC3_4
+Added Pin To Net: NetName=NetIC4_2 Pin=IC4-2
+Added Pin To Net: NetName=NetIC4_2 Pin=U1-31
+Added Net: Name=NetIC4_2
+Added Pin To Net: NetName=NetIC4_3 Pin=IC4-3
+Added Pin To Net: NetName=NetIC4_3 Pin=U1-19
+Added Net: Name=NetIC4_3
+Added Pin To Net: NetName=NetIC4_5 Pin=IC4-5
+Added Pin To Net: NetName=NetIC4_5 Pin=IC7-4
+Added Net: Name=NetIC4_5
+Added Pin To Net: NetName=NetIC5_2 Pin=IC5-2
+Added Pin To Net: NetName=NetIC5_2 Pin=U1-30
+Added Net: Name=NetIC5_2
+Added Pin To Net: NetName=NetIC5_3 Pin=IC5-3
+Added Pin To Net: NetName=NetIC5_3 Pin=U1-18
+Added Net: Name=NetIC5_3
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_45 Pin=U1-45
+Added Pin To Net: NetName=NetU1_45 Pin=U2-4
+Added Net: Name=NetU1_45
+Added Pin To Net: NetName=NetU1_46 Pin=U1-46
+Added Pin To Net: NetName=NetU1_46 Pin=U2-1
+Added Net: Name=NetU1_46
+Added Member To Class: ClassName=Motor_Control Member=Component IC3 BSC027N04LSGATMA1
+Added Member To Class: ClassName=Motor_Control Member=Component IC4 2EDL05N06PFXUMA1
+Added Member To Class: ClassName=Motor_Control Member=Component IC5 2EDL05N06PFXUMA1
+Added Member To Class: ClassName=Motor_Control Member=Component IC6 BSC027N04LSGATMA1
+Added Member To Class: ClassName=Motor_Control Member=Component IC7 BSC027N04LSGATMA1
+Added Member To Class: ClassName=Motor_Control Member=Component R13 10 mOhms
