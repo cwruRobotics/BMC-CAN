@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR20_2
+Added Member To Class: ClassName=Motor_Control Member=Component R13 4 mOhms
+Added Member To Class: ClassName=Motor_Control Member=Component R20 10 kOhms

@@ -1,0 +1,50 @@
+Removed Member From Class: ClassName=Power Member=H1
+Removed Member From Class: ClassName=Power Member=H2
+Removed Member From Class: ClassName=Power Member=H3
+Removed Member From Class: ClassName=Power Member=H4
+Added Component: Designator=D3(chip_0603_LED)
+Add component (AddParameter): Name = "Cost"; Value = "0.58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.65V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "APT1608LZGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DIO-00050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "120mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=R22(chip_0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-PA3F3300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=+3.3 Pin=R22-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-14
+Added Pin To Net: NetName=NetR15_1 Pin=U1-15
+Added Pin To Net: NetName=NetSW1_1 Pin=U1-18
+Added Pin To Net: NetName=NetSW1_2 Pin=U1-19
+Added Pin To Net: NetName=NetSW1_3 Pin=U1-20
+Added Pin To Net: NetName=NetR5_1 Pin=U1-21
+Added Pin To Net: NetName=NetR7_1 Pin=U1-22
+Added Pin To Net: NetName=NetQ1_2 Pin=U1-32
+Added Pin To Net: NetName=NetSW1_4 Pin=U1-39
+Added Pin To Net: NetName=NetSW1_5 Pin=U1-40
+Added Pin To Net: NetName=NetSW1_6 Pin=U1-41
+Added Pin To Net: NetName=NetSW1_7 Pin=U1-42
+Added Pin To Net: NetName=NetSW1_8 Pin=U1-43
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R22-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Pin To Net: NetName=NetU1_16 Pin=U4-13
+Added Net: Name=NetU1_16
+Added Member To Class: ClassName=Power Member=Component D3 diode_4
+Added Member To Class: ClassName=MCU Member=Component H1 mounting_hole_0
+Added Member To Class: ClassName=MCU Member=Component H2 mounting_hole_0
+Added Member To Class: ClassName=MCU Member=Component H3 mounting_hole_0
+Added Member To Class: ClassName=MCU Member=Component H4 mounting_hole_0
+Added Member To Class: ClassName=Motor_Control Member=Component R21 22 kOhms
+Added Member To Class: ClassName=Power Member=Component R22 res_single
