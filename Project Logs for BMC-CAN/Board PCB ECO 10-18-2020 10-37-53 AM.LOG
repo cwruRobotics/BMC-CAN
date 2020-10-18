@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Q2 Old Footprint=DPAK_0 New Footprint=sot-23-3
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "DPAK_0"; UniqueID = "\FHCUXYBA" ("\FHCUXYBA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "PMV250EPEAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power"; Value = "480mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "XSTR-00009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PFET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs/Vce"; Value = "2.5V"; VariantName = "[No Variations]"
