@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=VCC_PROT Pin=C13-2
+Removed Pin From Net: NetName=VCC_PROT Pin=C15-2
+Removed Pin From Net: NetName=VCC_PROT Pin=C18-2
+Removed Pin From Net: NetName=MOTOR+ Pin=IC2-1
+Removed Pin From Net: NetName=MOTOR+ Pin=IC2-2
+Removed Pin From Net: NetName=MOTOR+ Pin=IC2-3
+Removed Pin From Net: NetName=VCC Pin=IC2-5
+Removed Pin From Net: NetName=VCC Pin=IC2-6
+Removed Pin From Net: NetName=VCC Pin=IC2-7
+Removed Pin From Net: NetName=VCC Pin=IC2-8
+Removed Pin From Net: NetName=MOTOR+ Pin=IC3-5
+Removed Pin From Net: NetName=MOTOR+ Pin=IC3-6
+Removed Pin From Net: NetName=MOTOR+ Pin=IC3-7
+Removed Pin From Net: NetName=MOTOR+ Pin=IC3-8
+Removed Pin From Net: NetName=MOTOR- Pin=IC4-1
+Removed Pin From Net: NetName=MOTOR- Pin=IC4-2
+Removed Pin From Net: NetName=MOTOR- Pin=IC4-3
+Removed Pin From Net: NetName=VCC Pin=IC4-5
+Removed Pin From Net: NetName=VCC Pin=IC4-6
+Removed Pin From Net: NetName=VCC Pin=IC4-7
+Removed Pin From Net: NetName=VCC Pin=IC4-8
+Removed Pin From Net: NetName=MOTOR- Pin=IC5-5
+Removed Pin From Net: NetName=MOTOR- Pin=IC5-6
+Removed Pin From Net: NetName=MOTOR- Pin=IC5-7
+Removed Pin From Net: NetName=MOTOR- Pin=IC5-8
+Removed Pin From Net: NetName=VCC_PROT Pin=U4-1
+Removed Member From Class: ClassName=Motor_Control Member=IC2
+Removed Member From Class: ClassName=Motor_Control Member=IC3
+Removed Member From Class: ClassName=Motor_Control Member=IC4
+Removed Member From Class: ClassName=Motor_Control Member=IC5
+Added Component: Designator=Q3(TDFN-8-5x6)
+Add component (AddParameter): Name = "Cost"; Value = "1.19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "BSC027N04LS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power"; Value = "83W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XSTR-00049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs/Vce"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TDFN-8-5x6)
+Add component (AddParameter): Name = "Cost"; Value = "1.19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "BSC027N04LS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power"; Value = "83W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XSTR-00049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs/Vce"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TDFN-8-5x6)
+Add component (AddParameter): Name = "Cost"; Value = "1.19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "BSC027N04LS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power"; Value = "83W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XSTR-00049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs/Vce"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(TDFN-8-5x6)
+Add component (AddParameter): Name = "Cost"; Value = "1.19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "BSC027N04LS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power"; Value = "83W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XSTR-00049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs/Vce"; Value = "2V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_2 Pin=C13-2
+Added Pin To Net: NetName=NetC11_2 Pin=C15-2
+Added Pin To Net: NetName=NetC11_2 Pin=C18-2
+Added Pin To Net: NetName=MOTOR+ Pin=Q3-3
+Added Pin To Net: NetName=VCC Pin=Q3-5
+Added Pin To Net: NetName=VCC Pin=Q3-5
+Added Pin To Net: NetName=VCC Pin=Q3-5
+Added Pin To Net: NetName=VCC Pin=Q3-5
+Added Pin To Net: NetName=VCC Pin=Q3-5
+Added Pin To Net: NetName=MOTOR+ Pin=Q4-5
+Added Pin To Net: NetName=MOTOR+ Pin=Q4-5
+Added Pin To Net: NetName=MOTOR+ Pin=Q4-5
+Added Pin To Net: NetName=MOTOR+ Pin=Q4-5
+Added Pin To Net: NetName=MOTOR+ Pin=Q4-5
+Added Pin To Net: NetName=MOTOR- Pin=Q5-5
+Added Pin To Net: NetName=MOTOR- Pin=Q5-5
+Added Pin To Net: NetName=MOTOR- Pin=Q5-5
+Added Pin To Net: NetName=MOTOR- Pin=Q5-5
+Added Pin To Net: NetName=MOTOR- Pin=Q5-5
+Added Pin To Net: NetName=MOTOR- Pin=Q6-3
+Added Pin To Net: NetName=VCC Pin=Q6-5
+Added Pin To Net: NetName=VCC Pin=Q6-5
+Added Pin To Net: NetName=VCC Pin=Q6-5
+Added Pin To Net: NetName=VCC Pin=Q6-5
+Added Pin To Net: NetName=VCC Pin=Q6-5
+Added Pin To Net: NetName=NetC11_2 Pin=U4-1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=VCC_PROT
+Change Net Name : Old Net Name=VCC_PROT New Net Name=NetC9_1
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_4 Pin=U4-17
+Added Net: Name=NetQ3_4
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R13-2
+Added Pin To Net: NetName=NetQ4_3 Pin=U4-21
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ4_4 Pin=Q4-4
+Added Pin To Net: NetName=NetQ4_4 Pin=U4-19
+Added Net: Name=NetQ4_4
+Added Pin To Net: NetName=NetQ5_4 Pin=Q5-4
+Added Pin To Net: NetName=NetQ5_4 Pin=U4-22
+Added Net: Name=NetQ5_4
+Added Pin To Net: NetName=NetQ6_4 Pin=Q6-4
+Added Pin To Net: NetName=NetQ6_4 Pin=U4-24
+Added Net: Name=NetQ6_4
+Added Member To Class: ClassName=Motor_Control Member=Component Q3 BSC027N04LS
+Added Member To Class: ClassName=Motor_Control Member=Component Q4 BSC027N04LS
+Added Member To Class: ClassName=Motor_Control Member=Component Q5 BSC027N04LS
+Added Member To Class: ClassName=Motor_Control Member=Component Q6 BSC027N04LS
