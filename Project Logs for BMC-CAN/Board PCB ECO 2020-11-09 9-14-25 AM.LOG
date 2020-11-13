@@ -1,0 +1,16 @@
+Added Component: Designator=J1(HDDR_4x1_0)
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-21
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=R7-1
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-22
+Added Net: Name=NetJ1_3
+Added Member To Class: ClassName=MCU Member=Component J1 conn-4x1_0
